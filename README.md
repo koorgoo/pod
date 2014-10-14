@@ -16,7 +16,7 @@ bower install pod
 ```js
 var audio = pod(document.getElementsByTagName('audio')[0]);
 
-audio.stop()  // stops streaming
+audio.stop()  // stop stream buffering
 audio.mute([callback])
 audio.unmute([callback])
 audio.next(source, [callback])
