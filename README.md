@@ -4,6 +4,13 @@ pod
 HTML5 audio element small extension
 
 
+### Install
+
+```shell
+bower install pod
+```
+
+
 ### API
 
 ```js
