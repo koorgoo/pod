@@ -7,7 +7,7 @@ HTML5 audio element small extension
 ### Install
 
 ```shell
-bower install pod
+bower install koorgoo/pod
 ```
 
 

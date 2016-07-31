@@ -1,12 +1,12 @@
 {
   "name": "pod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Dima Kurguzov <koorgoo@gmail.com>"
   ],
   "main": "lib/pod.js",
   "license": "MIT",
-  "homepage": "https://github.com/sonario/pod",
+  "homepage": "https://github.com/koorgoo/pod",
   "devDependencies": {
     "qunit": "~1.15.0"
   }
